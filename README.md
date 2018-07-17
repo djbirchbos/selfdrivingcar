@@ -1,10 +1,10 @@
-#Self Driving Car Project
+# SelfDrivingCarProject
 
-##Scope of Project
+## ScopeOfProject
 
 Build a self-driving car.
 
-###Notes
+### Notes
 
 Repo is for my **_self driving car project_**
 
