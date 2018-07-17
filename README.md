@@ -1,6 +1,6 @@
-# SelfDrivingCarProject
+# Self Driving Car Project
 
-## ScopeOfProject
+## Scope Of Project
 
 Build a self-driving car.
 
