@@ -1,7 +1,3 @@
-# selfdrivingcar
-self driving car
-
-
 #Self Driving Car Project#
 
 ##Scope of Project##
